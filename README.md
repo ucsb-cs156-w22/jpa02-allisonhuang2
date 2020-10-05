@@ -57,9 +57,3 @@ If you use `ls -a` on this directory, you should the following hidden files:
   See <https://ucsb-cs156.github.io/topics/git_gitignore/> for more
   information.
 
-* `.github/workflows`  This subdirectory has files that control
-  a process known as *Continuous Integration* or usually just *CI* for short;
-  it's the process by which automated tests are run every time you
-  push a change to the `main` branch of the repo.
-
-

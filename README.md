@@ -23,9 +23,10 @@ you with compiling Java using Maven, and submitting using Gradescope.
   when working with C/C++ programming.  This file works with a piece of
   software called Maven.
 
-  For more information, see: <https://ucsb-cs156.github.io/topics/maven/>,
-  and <https://ucsb-cs156.github.io/topics/maven_hello_world/>, where both
-  Maven, and the specific `pom.xml` in this project are explained in detail.
+  For more information, see the links below where both
+  Maven, and the specific `pom.xml` in this project are explained in more detail.
+  * [Maven, in general](https://ucsb-cs156.github.io/topics/maven)
+  * [The pom.xml file for this project](https://ucsb-cs156.github.io/topics/maven_hello_world/)
 
 * `src` This directory contains the source code for this project.
 

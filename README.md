@@ -4,11 +4,7 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-allisonhuang2
 
 On Heroku: https://jpa02-allisonhuang.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-allisonhuang2
 
 
 # About this repo
